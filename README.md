@@ -1150,14 +1150,7 @@ err_code 详细说明如下表：
 | ERROR_NOT_SET_ASYNC_PRE_CALL | 10000011 | 非阻塞协程式 RPC 调用前没保存对象 |
 
 
-# 7. 问题反馈
-- 交流群：**260423934**
-- 邮箱地址：**1753009868@qq.com**
-- 知乎：知乎搜索 **ikerli**
 
-如果您愿意支援一点电费，不胜感激！
-
-![](./imgs/mine/wechatpay.png)(wechat pay) &nbsp; ![](./imgs/mine/alipay.png)(alipay)  
 
 
 
